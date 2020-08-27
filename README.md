@@ -19,7 +19,7 @@ Summary:
 * **SVD** Singular Value Decomposition A=USV^T
   * Least Squares Problem Solver using SVD
 * **Iterative methods**:
-  * **Power method** Ax/|Ax|S for the **Dominant Eigenvalue**
+  * **Power method** Ax/|Ax| for the **Dominant Eigenvalue**
   * **Orthogonal Iteration** (Schur) for orthogonal transformation into upper triangular A=QRQ^T
   * **Linear System Solver** with iterative methods:
     * **Jacobi**
